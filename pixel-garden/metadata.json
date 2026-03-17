@@ -1,0 +1,7 @@
+{
+  "name": "Pixel Garden",
+  "description": "A Minecraft-inspired flower planting experience. Use hand gestures to grow your garden.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
